@@ -1,0 +1,9 @@
+node_modules/
+.cache/
+public/
+.DS_Store
+*/.DS_Store
+# Ignore the compiled output.
+dist/
+# Lets you add more env vars.
+.env
